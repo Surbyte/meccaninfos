@@ -42,7 +42,7 @@ export async function POST(request: Request) {
 
     await transporter.sendMail({
       from: GMAIL_USER,
-      to: "piezasuelta@gmail.com",
+      to: "info@meccaninfos.com.ar",
       subject: asunto,
       html,
     })
