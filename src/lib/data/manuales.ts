@@ -1,0 +1,27 @@
+import type { Manual } from "@/types"
+
+export const manuales: Manual[] = [
+  { id: "1", titulo: "Álbum de Nuevos Modelos 1928", imagen: "/images/manuales/manual1.jpg", descripcion: "Álbum de nuevos modelos Meccano publicados en 1928. Edición en español.", anio: "1928", idioma: "Español" },
+  { id: "2", titulo: "Manual N° 0 al 3 - 1948", imagen: "/images/manuales/manual2.jpg", descripcion: "Manual de instrucciones para sets N° 0 al 3. Año 1948.", anio: "1948", idioma: "Español" },
+  { id: "3", titulo: "Manual N° 0 al 3 - 1947", imagen: "/images/manuales/manual3.jpg", descripcion: "Manual de instrucciones para sets N° 0 al 3. Año 1947.", anio: "1947", idioma: "Español" },
+  { id: "4", titulo: "Manual N° 4 al 6 - 1948", imagen: "/images/manuales/manual4.jpg", descripcion: "Manual de instrucciones para sets N° 4 al 6. Año 1948.", anio: "1948", idioma: "Español" },
+  { id: "5", titulo: "Mecanismos de Norma (Parte 1)", imagen: "/images/manuales/manual5.jpg", descripcion: "Primera parte del manual de mecanismos estándar Meccano.", idioma: "Español" },
+  { id: "6", titulo: "Mecanismos de Norma (Parte 2)", imagen: "/images/manuales/manual6.jpg", descripcion: "Segunda parte del manual de mecanismos estándar Meccano.", idioma: "Español" },
+  { id: "7", titulo: "Manual N° 7 al 8 - 1961", imagen: "/images/manuales/manual7.jpg", descripcion: "Manual de instrucciones para sets N° 7 y 8. Año 1961. Edición en inglés.", anio: "1961", idioma: "Inglés" },
+  { id: "8", titulo: "Manual Elektrikit", imagen: "/images/manuales/manual8.jpg", descripcion: "Manual del set Elektrikit con circuitos eléctricos y electromecánicos.", idioma: "Español" },
+  { id: "9", titulo: "Manual N° 2 - Década del 70", imagen: "/images/manuales/manual9.jpg", descripcion: "Manual de instrucciones para set N° 2. Década de 1970.", anio: "1970", idioma: "Español" },
+  { id: "10", titulo: "Manual N° 4 - Década del 70", imagen: "/images/manuales/manual10.jpg", descripcion: "Manual de instrucciones para set N° 4. Década de 1970.", anio: "1970", idioma: "Español" },
+  { id: "11", titulo: "Manual N° 5 - Década del 70", imagen: "/images/manuales/manual11.jpg", descripcion: "Manual de instrucciones para set N° 5. Década de 1970.", anio: "1970", idioma: "Español" },
+  { id: "12", titulo: "Manual N° 8 - Década del 70", imagen: "/images/manuales/manual12.jpg", descripcion: "Manual de instrucciones para set N° 8. Década de 1970.", anio: "1970", idioma: "Español" },
+  { id: "13", titulo: "Manual Mechanisms Set", imagen: "/images/manuales/manual13.jpg", descripcion: "Manual del set de mecanismos Meccano. Edición en inglés.", idioma: "Inglés" },
+  { id: "14", titulo: "Manual Gears Set", imagen: "/images/manuales/manual14.jpg", descripcion: "Manual del set de engranajes Meccano. Edición en inglés.", idioma: "Inglés" },
+  { id: "15", titulo: "Manual N° 4 al 7 - Años 30/31", imagen: "/images/manuales/manual15.jpg", descripcion: "Manual de instrucciones para sets N° 4 al 7. Años 1930-1931.", anio: "1930", idioma: "Español" },
+  { id: "16", titulo: "Manual N° 9 - 1953", imagen: "/images/manuales/manual16.jpg", descripcion: "Manual de instrucciones para set N° 9. Año 1953. Edición en inglés.", anio: "1953", idioma: "Inglés" },
+  { id: "17", titulo: "Manual N° 0 al 1 - Década del 60", imagen: "/images/manuales/manual17.jpg", descripcion: "Manual de instrucciones para sets N° 0 y 1. Década de 1960.", anio: "1960", idioma: "Español" },
+  { id: "18", titulo: "Manual N° 2 al 3 - Década del 60", imagen: "/images/manuales/manual18.jpg", descripcion: "Manual de instrucciones para sets N° 2 y 3. Década de 1960.", anio: "1960", idioma: "Español" },
+  { id: "19", titulo: "Manual N° 4-5 al 6 - Década del 60", imagen: "/images/manuales/manual19.jpg", descripcion: "Manual de instrucciones para sets N° 4-5 y 6. Década de 1960.", anio: "1960", idioma: "Español" },
+  { id: "20", titulo: "Manual de Iniciación", imagen: "/images/manuales/manual20.jpg", descripcion: "Manual básico de iniciación al Meccano para principiantes.", idioma: "Español" },
+  { id: "21", titulo: "Manual N° 7 - Década del 70 (Francés)", imagen: "/images/manuales/manual21.jpg", descripcion: "Manual de instrucciones para set N° 7. Edición en francés.", anio: "1970", idioma: "Francés" },
+  { id: "22", titulo: "Manual Metaling N° 2 al 3 - 1976", imagen: "/images/manuales/manual22.jpg", descripcion: "Manual del sistema Metaling N° 2 al 3. Año 1976.", anio: "1976", idioma: "Español" },
+  { id: "23", titulo: "Manual Ses Pièces et Leur Emploi", imagen: "/images/manuales/manual23.jpg", descripcion: "Catálogo de piezas Meccano y sus aplicaciones. Edición en francés.", idioma: "Francés" },
+]
